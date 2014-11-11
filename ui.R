@@ -11,7 +11,7 @@ library(ggplot2)
 shinyUI(fluidPage(
 
   # Application title
-  titlePanel("Rasgos cuantitativos"),
+  titlePanel("Rasgos cuantitativos. Modelo infinitesimal de Fisher"),
 
   # Sidebar with a slider input for number of bins
   sidebarLayout(
